@@ -1,0 +1,19 @@
+# Private Keys (GitHub Token etc)
+.env
+.env.*
+
+# JavaScript / Node.js (Frontend & Backend)
+node_modules/
+dist/
+build/
+.next/
+
+# Python (CLI & Scripts)
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# System ve Editor files
+.DS_Store
+Thumbs.db
